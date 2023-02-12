@@ -2,6 +2,9 @@
 ### About
 It is an app for tailors to keep track of their pending orders and its details. The user can create an order with necessary details like order quantity, due dates etc .,  I used **Flutter** for frontend and **Firebase** for backend. 
 
+I have hosted the application and it can be accessed with the below link:
+> https://tailorhelperapp.web.app/ 
+
 ### Screenshots
 ![Image](https://i.ibb.co/HxVhNGy/Screenshot-2023-02-12-182918.png)  
 
