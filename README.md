@@ -1,16 +1,10 @@
-# tailorapp
+# **TailorApp**
+### About
+It is an app for tailors to keep track of their pending orders and its details. The user can create an order with necessary details like order quantity, due dates etc .,  I used **Flutter** for frontend and **Firebase** for backend. 
 
-A new Flutter project.
+### Screenshots
+![Image](https://ibb.co/D8trGwF)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Tech Stack
+* Flutter
+* Firebase
